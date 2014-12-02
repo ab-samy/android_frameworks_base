@@ -393,4 +393,3 @@ public class KeyguardSimPinView extends KeyguardPinBasedInputView {
         }
     }
 }
-
